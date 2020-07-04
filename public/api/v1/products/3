@@ -1,0 +1,34 @@
+{
+  "id": "3",
+  "createdAt": "2020-04-08T05:52:40.6702",
+  "name": "Generic Granite Car",
+  "material": "Plastic",
+  "price": "686.00",
+  "description": "Lorem ipsum dolor sit amet, consecte, elit.",
+  "images": [
+    {
+      "id": "3",
+      "productId": "3",
+      "createdAt": "2020-04-09T11:18:04.2652",
+      "imageUrl": "https://picsum.photos/350/256"
+    },
+    {
+      "id": "32",
+      "productId": "4",
+      "createdAt": "2020-04-09T03:30:27.8052",
+      "imageUrl": "https://picsum.photos/350/256"
+    },
+    {
+      "id": "62",
+      "productId": "4",
+      "createdAt": "2020-04-09T02:42:48.1882",
+      "imageUrl": "https://picsum.photos/350/256"
+    },
+    {
+      "id": "85",
+      "productId": "4",
+      "createdAt": "2020-04-10T07:51:34.1012",
+      "imageUrl": "https://picsum.photos/350/256"
+    }
+  ]
+}
